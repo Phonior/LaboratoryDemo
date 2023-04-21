@@ -1,0 +1,12 @@
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\bin\Debug\net6.0\DemoV3.Models.deps.json
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\bin\Debug\net6.0\DemoV3.Models.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\bin\Debug\net6.0\DemoV3.Models.pdb
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\obj\Debug\net6.0\DemoV3.Models.csproj.AssemblyReference.cache
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\obj\Debug\net6.0\DemoV3.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\obj\Debug\net6.0\DemoV3.Models.AssemblyInfoInputs.cache
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\obj\Debug\net6.0\DemoV3.Models.AssemblyInfo.cs
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\obj\Debug\net6.0\DemoV3.Models.csproj.CoreCompileInputs.cache
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\obj\Debug\net6.0\DemoV3.Models.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\obj\Debug\net6.0\refint\DemoV3.Models.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\obj\Debug\net6.0\DemoV3.Models.pdb
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV3\DemoV3.Models\obj\Debug\net6.0\ref\DemoV3.Models.dll

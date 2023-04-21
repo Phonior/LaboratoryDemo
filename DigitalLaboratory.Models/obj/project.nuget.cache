@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ik/OYl2M5R+/bWhlSSmDWV/IF1URKASpxAmgYV9GXnYkPQ1i0JlMEGsCbemBEJR44Bd8+z3qFbvikQUryIc5JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\29232\\Desktop\\Graduation Design\\Project\\DemoV4\\DemoV4.Models\\DemoV4.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\29232\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\29232\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

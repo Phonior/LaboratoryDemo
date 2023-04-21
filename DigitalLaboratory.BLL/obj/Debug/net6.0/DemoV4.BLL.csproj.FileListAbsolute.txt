@@ -1,0 +1,17 @@
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\bin\Debug\net6.0\DemoV4.BLL.deps.json
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\bin\Debug\net6.0\DemoV4.BLL.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\bin\Debug\net6.0\DemoV4.BLL.pdb
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\bin\Debug\net6.0\DemoV4.DAL.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\bin\Debug\net6.0\DemoV4.Models.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\bin\Debug\net6.0\DemoV4.DAL.pdb
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\bin\Debug\net6.0\DemoV4.Models.pdb
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\DemoV4.BLL.csproj.AssemblyReference.cache
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\DemoV4.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\DemoV4.BLL.AssemblyInfoInputs.cache
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\DemoV4.BLL.AssemblyInfo.cs
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\DemoV4.BLL.csproj.CoreCompileInputs.cache
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\DemoV4.BLL.csproj.CopyComplete
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\DemoV4.BLL.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\refint\DemoV4.BLL.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\DemoV4.BLL.pdb
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.BLL\obj\Debug\net6.0\ref\DemoV4.BLL.dll

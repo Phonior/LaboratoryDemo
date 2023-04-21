@@ -1,0 +1,15 @@
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\bin\Debug\net6.0\DemoV4.DAL.deps.json
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\bin\Debug\net6.0\DemoV4.DAL.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\bin\Debug\net6.0\DemoV4.DAL.pdb
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\bin\Debug\net6.0\DemoV4.Models.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\bin\Debug\net6.0\DemoV4.Models.pdb
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\DemoV4.DAL.csproj.AssemblyReference.cache
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\DemoV4.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\DemoV4.DAL.AssemblyInfoInputs.cache
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\DemoV4.DAL.AssemblyInfo.cs
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\DemoV4.DAL.csproj.CoreCompileInputs.cache
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\DemoV4.DAL.csproj.CopyComplete
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\DemoV4.DAL.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\refint\DemoV4.DAL.dll
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\DemoV4.DAL.pdb
+C:\Users\29232\Desktop\Graduation Design\Project\DemoV4\DemoV4.DAL\obj\Debug\net6.0\ref\DemoV4.DAL.dll
